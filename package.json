@@ -1,0 +1,22 @@
+{
+  "name": "codethreatbe",
+  "version": "1.0.0",
+  "description": "CodeThreat BackeEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enesbek/CodeThreatBE.git"
+  },
+  "author": "Enes Bek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enesbek/CodeThreatBE/issues"
+  },
+  "homepage": "https://github.com/enesbek/CodeThreatBE#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
